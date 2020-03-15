@@ -140,6 +140,26 @@ export class ProductsService {
       "wished": false,
       "purchased": false
     }
+    {
+      "id": "HT-1050",
+      "category": "Printers",
+      "description": "4800 dpi x 1200 dpi - up to 35 ppm (mono) / up to 34 ppm (color) - capacity: 250 sheets - Hi-Speed USB, Ethernet",
+      "name": "Ultra Jet Super Color",
+      "image": "https://openui5.hana.ondemand.com/test-resources/sap/ui/documentation/sdk/images/HT-1050.jpg",
+      "price": 139,
+      "wished": false,
+      "purchased": false
+    },
+    {
+      "id": "HT-1050",
+      "category": "Printers",
+      "description": "4800 dpi x 1200 dpi - up to 35 ppm (mono) / up to 34 ppm (color) - capacity: 250 sheets - Hi-Speed USB, Ethernet",
+      "name": "Ultra Jet Super Color",
+      "image": "https://openui5.hana.ondemand.com/test-resources/sap/ui/documentation/sdk/images/HT-1050.jpg",
+      "price": 139,
+      "wished": false,
+      "purchased": false
+    }
 
   ];
   constructor() { }
